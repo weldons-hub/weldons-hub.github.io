@@ -407,3 +407,57 @@ pre code, pre tt {
   background-color: transparent;
   border: none;
 }
+
+
+.awesome {
+  
+  font-family: futura;
+  font-style: italic;
+  
+  width:100%;
+  
+  color:red;
+  font-size:45px;
+  font-weight: bold;
+  position: absolute;
+  -webkit-animation:colorchange 7s infinite alternate;
+  
+  
+}
+
+@-webkit-keyframes colorchange {
+  0% {
+    
+    color: red;
+  }
+
+  17% {
+    
+    color: orange;
+  }
+  
+  34% {
+    
+    color: yellow;
+  }
+  
+  50% {
+    
+    color: green;
+  }
+  
+  67% {
+    
+    color: blue;
+  }
+  
+  84% {
+    
+    color: indigo;
+  }
+  
+  100% {
+    
+    color: purple;
+  }
+}
