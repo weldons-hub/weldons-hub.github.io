@@ -409,7 +409,7 @@ pre code, pre tt {
 }
 
 
-.awesome {
+a.awesome {
   
   font-family: futura;
   font-style: italic;
@@ -421,6 +421,7 @@ pre code, pre tt {
   font-weight: bold;
   position: absolute;
   -webkit-animation:colorchange 7s infinite alternate;
+          animation:colorchange 7s infinite alternate;
   
   
 }
