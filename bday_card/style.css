@@ -22,8 +22,8 @@
 }
 
 #outside-pic {
-  width: 560px;
-  height: 513px;
+  width: 340px;
+  height: 310px;
 }
 
 #outside-help {
@@ -51,14 +51,14 @@
 } */
 
 #inside-pic {
-  width: 410px;
-  height: 293px;
+  width: 328px;
+  height: 234px;
 }
 
 .msgg {
   color: black;
   font-family: Courier;
-  font-size: 16pt;
+  font-size: 14pt;
   text-align: center;
 }
 
