@@ -1,3 +1,4 @@
+
 #outside {
   z-index: 1;
   position: absolute;
@@ -21,8 +22,8 @@
 }
 
 #outside-pic {
-  width: 300px;
-  height: 300px;
+  width: 340px;
+  height: 310px;
 }
 
 #outside-help {
@@ -42,25 +43,26 @@
   text-align: center;
 }
 
-#inside-title {
+/* #inside-title {
   color: black;
   font-family: Courier;
   font-size: 12pt;
   text-align: center;
-}
+} */
 
 #inside-pic {
-  width: 50px;
-  height: 150px;
+  width: 328px;
+  height: 234px;
 }
 
-#message {
+.msgg {
   color: black;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 14pt;
   text-align: center;
 }
 
 button {
   background: silver;
+  font-size: 16pt;
 }
